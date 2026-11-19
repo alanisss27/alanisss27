@@ -22,9 +22,9 @@ Demonstrates an integrated approach to:
 - Enrollment and visit-capacity feasibility
 - Evidence-based execution tracking and PM decision-making
 
-**Start here:** [Selected PM Decisions](/alanisss27/clinical-trial-study-operations-simulation#selected-pm-decisions) · [Execution Tracking Case Study](/alanisss27/clinical-trial-study-operations-simulation/blob/main/docs/execution-tracking-case-study.md)
+**Start here:** [Selected PM Decisions](https://github.com/alanisss27/clinical-trial-study-operations-simulation#selected-pm-decisions) · [Execution Tracking Case Study](https://github.com/alanisss27/clinical-trial-study-operations-simulation/blob/main/docs/execution-tracking-case-study.md)
 
-[View the full project →](/alanisss27/clinical-trial-study-operations-simulation)
+[View the full project →](https://github.com/alanisss27/clinical-trial-study-operations-simulation)
 
 ---
 
@@ -32,7 +32,7 @@ Demonstrates an integrated approach to:
 
 Independent clinical data-management portfolio simulation demonstrating longitudinal CRF design, visit/event mapping, clinical-sample traceability, and data-quality controls in REDCap.
 
-[View the project →](/alanisss27/clinical-trial-redcap-simulation)
+[View the project →](https://github.com/alanisss27/clinical-trial-redcap-simulation)
 
 ---
 
@@ -56,7 +56,7 @@ Financial reconciliation and data quality validation
 
 Tools: Notion · Microsoft Excel · Power BI · Power Query · DAX
 
-[View the project →]([/alanisss27/wedding-project-management])
+[View the project →](https://github.com/alanisss27/wedding-project-management)
 
 ---
 
