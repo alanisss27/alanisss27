@@ -34,6 +34,32 @@ Independent clinical data-management portfolio simulation demonstrating longitud
 
 [View the project →](/alanisss27/clinical-trial-redcap-simulation)
 
+---
+
+### Wedding Project Management Portfolio
+
+Independent project — Project planning, vendor coordination, and performance reporting
+
+Applied project management practices to an ongoing wedding planning project, integrating Notion, Excel, and Power BI to support planning, coordination, and monitoring.
+
+Demonstrates:
+
+Phased project planning, task organization, and milestone tracking
+
+Vendor coordination and contract documentation tracking
+
+Budget, payment, and outstanding balance monitoring
+
+Monthly project status reporting and deadline tracking
+
+Financial reconciliation and data quality validation
+
+Tools: Notion · Microsoft Excel · Power BI · Power Query · DAX
+
+[View the project →]([/alanisss27/wedding-project-management])
+
+---
+
 ## Professional Focus
 
 **Clinical Project Management · Clinical Operations · Study Execution · Cross-functional Coordination**
