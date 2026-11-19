@@ -4,59 +4,55 @@
 
 Clinical research professional with 6+ years supporting Phase I/II clinical-development programs, with experience in clinical sample and data workflows, CRO and cross-functional coordination, regulated documentation, and project planning.
 
-Currently focused on progressing toward clinical project management, with independent portfolio work demonstrating how I approach study planning, dependencies, risks, cross-functional coordination, status reporting, and execution tracking.
+Focused on advancing toward clinical project management, combining clinical research experience with independent portfolio projects in study operations, project planning, execution tracking, and performance reporting.
 
 ## Featured Portfolio
 
-### Clinical Trial Study Operations Simulation
+### 01 | Clinical Trial Study Operations Simulation
 
-**Flagship project — Independent fictional Phase I study-operations and project-management simulation**
+**Flagship Project — Independent Fictional Phase I Study Simulation**
 
-Demonstrates an integrated approach to:
-- Study timeline and milestone planning
-- Dependency and schedule-variance assessment
-- Cross-functional RACI and governance
-- Risk, issue, action, and decision tracking
-- CRO/vendor deliverable coordination
-- Weekly study-status reporting
-- Enrollment and visit-capacity feasibility
-- Evidence-based execution tracking and PM decision-making
+Integrated study-operations and project-management simulation demonstrating:
 
-**Start here:** [Selected PM Decisions](https://github.com/alanisss27/clinical-trial-study-operations-simulation#selected-pm-decisions) · [Execution Tracking Case Study](https://github.com/alanisss27/clinical-trial-study-operations-simulation/blob/main/docs/execution-tracking-case-study.md)
+- **Planning & Scheduling:** Study milestones, dependencies, schedule variance, and enrollment feasibility
+- **Governance & Coordination:** Cross-functional RACI, CRO/vendor deliverables, and decision tracking
+- **Risk & Execution Management:** Risk, issue, action, and evidence-based execution tracking
+- **Status Reporting:** Weekly study updates and PM decision-making
 
-[View the full project →](https://github.com/alanisss27/clinical-trial-study-operations-simulation)
+**Explore:** [Selected PM Decisions](https://github.com/alanisss27/clinical-trial-study-operations-simulation#selected-pm-decisions) · [Execution Tracking Case Study](https://github.com/alanisss27/clinical-trial-study-operations-simulation/blob/main/docs/execution-tracking-case-study.md)
+
+[View Full Project →](https://github.com/alanisss27/clinical-trial-study-operations-simulation)
 
 ---
 
-### Phase I Clinical Trial REDCap/EDC Simulation — SIM-001
+### 02 | Phase I Clinical Trial REDCap/EDC Simulation — SIM-001
 
-Independent clinical data-management portfolio simulation demonstrating longitudinal CRF design, visit/event mapping, clinical-sample traceability, and data-quality controls in REDCap.
+**Independent Clinical Data Management Simulation**
 
-[View the project →](https://github.com/alanisss27/clinical-trial-redcap-simulation)
+Developed a simulated Phase I clinical trial data-management workflow in REDCap, demonstrating:
+
+- **CRF Design:** Longitudinal forms and visit/event mapping
+- **Data Traceability:** Clinical sample and study data organization
+- **Data Quality:** Structured data collection and validation controls
+
+[View Full Project →](https://github.com/alanisss27/clinical-trial-redcap-simulation)
 
 ---
 
-### Wedding Project Management Portfolio
+### 03 | Wedding Project Management Portfolio
 
-Independent project — Project planning, vendor coordination, and performance reporting
+**Independent Real-World Project — Planning, Coordination & Reporting**
 
-Applied project management practices to an ongoing wedding planning project, integrating Notion, Excel, and Power BI to support planning, coordination, and monitoring.
+Applied project-management practices to an ongoing wedding planning project using Notion, Excel, and Power BI.
 
-Demonstrates:
+- **Project Planning:** Phased timelines, milestone tracking, and task status monitoring
+- **Vendor Management:** Vendor coordination and contract documentation tracking
+- **Financial Monitoring:** Budget tracking, payment progress, and outstanding balances
+- **Reporting & Data Quality:** Power BI dashboards, monthly status reporting, and financial reconciliation
 
-Phased project planning, task organization, and milestone tracking
+**Tools:** Notion · Excel · Power BI · Power Query · DAX
 
-Vendor coordination and contract documentation tracking
-
-Budget, payment, and outstanding balance monitoring
-
-Monthly project status reporting and deadline tracking
-
-Financial reconciliation and data quality validation
-
-Tools: Notion · Microsoft Excel · Power BI · Power Query · DAX
-
-[View the project →](https://github.com/alanisss27/wedding-project-management)
+[View Full Project →](https://github.com/alanisss27/wedding-project-management)
 
 ---
 
